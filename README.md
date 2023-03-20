@@ -1,2 +1,2 @@
-# Portofolio-Card
-A React based Portofolio Card Website
+# Portfolio-Card
+A React based Portfolio Card Website
