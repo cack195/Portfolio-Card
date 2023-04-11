@@ -10,17 +10,7 @@ export default function Info() {
       <img className="info--photo" src={ProfilePhoto} alt="Cyril Kevin" />
       <h1 className="info--fullname"> Hi I'm Cyril Kevin 👋</h1>
       <h5 className="info--role">Web Developer</h5>
-      {/* <p className="info--website">
-        <a
-          className="info--websiteLink"
-          href="https://github.com/cack195"
-          target="_blank"
-          rel="noopener noreferrer"
-        ><u>
-          My LinkedIn Profile</u>
-        </a>
-      </p> */}
-      <br></br>
+       <br></br>
       <div className="info--buttons">
         <address>
           <a href="mailto:cackamr195@gmail.com">
