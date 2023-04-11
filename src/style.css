@@ -102,10 +102,10 @@ p {
   border: 1px solid var(--clr-light-heading);
 }
 
-.button--linkedin {
+.button--github {
   color: var(--clr-light-heading);
-  background-color: var(--clr-linkedin);
-  border: 1px solid var(--clr-linkedin);
+  background-color: var(--clr-background-darker);
+  border: 1px solid var(--clr-background-darker);
 }
 
 /* ---------------------- */
